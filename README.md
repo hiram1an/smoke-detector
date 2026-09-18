@@ -7,6 +7,4 @@ Our Solution:
 
 Install our smoke detector(SD). When the sensor detects a smoking smoke, it will light the warning led in our phone.
 
-![My Eye](eye.jpg)
-
 ![hihi](Gemini_Generated_Image_9kmoaf9kmoaf9kmo.jpg)
