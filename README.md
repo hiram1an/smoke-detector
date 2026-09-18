@@ -6,3 +6,5 @@ In our school, there has been an increasing problem with students smoking secret
 Our Solution:
 
 Install our smoke detector(SD). When the sensor detects a smoking smoke, it will light the warning led in our phone.
+
+![My Eye](eye.jpg)
